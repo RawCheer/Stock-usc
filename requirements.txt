@@ -14,7 +14,6 @@ bleach==3.1.0
 boto3==1.14.28
 botocore==1.17.28
 Brotli==1.0.7
-bulbea==0.1.0
 bullet==2.1.0
 cachetools==4.1.0
 certifi==2020.6.20
