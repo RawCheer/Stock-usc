@@ -1,1 +1,1 @@
-web: gunicorn mysite.wsgi visualization.py 
+web: gunicorn app:app.server
