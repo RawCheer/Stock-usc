@@ -671,7 +671,7 @@ def update_graph3(selected_dropdown, selected_date):
 
 #app.run_server(mode='inline')  # colab
 if __name__ == '__main__':
-    app.run_server()
+    app.run_server(port = 8050)
 
 
 # WARNING: Do not use the development server in a production environment.
